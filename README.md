@@ -7,7 +7,7 @@ Dataset Description<br>
 <b>Test dataset</b>: Contains the features without the target class. Your objective is to predict the target class for each row in this dataset.<br>
 <b>Sample Submission</b>: A file showing the correct format for submissions.<br><br>
 
-Tags
+Tags<br>
 <b>Machine Learning</b><br>
 <b>Binary Classification</b><br>
 <b>Deep Learning</b><br>

@@ -1,4 +1,5 @@
-#Binary Prediction of Poisonous Mushrooms
+# Binary Prediction of Poisonous Mushrooms
+<br>
 This repository contains code and analysis for the <b>Binary Prediction of Poisonous Mushrooms</b> competition. The dataset is derived from a deep learning model trained on the UCI Mushroom dataset, with feature distributions that closely match but are not identical to the original. The goal is to build a model that can accurately predict whether a mushroom is edible (<b>e</b>) or poisonous (<b>p</b>).<br><br>
 
 Dataset Description

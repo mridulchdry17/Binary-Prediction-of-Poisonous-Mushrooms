@@ -1,11 +1,18 @@
-# Binary-Prediction-of-Poisonous-Mushrooms
-<br>
+#Binary Prediction of Poisonous Mushrooms
+This repository contains code and analysis for the <b>Binary Prediction of Poisonous Mushrooms</b> competition. The dataset is derived from a deep learning model trained on the UCI Mushroom dataset, with feature distributions that closely match but are not identical to the original. The goal is to build a model that can accurately predict whether a mushroom is edible (<b>e</b>) or poisonous (<b>p</b>).<br><br>
+
 Dataset Description
-The dataset for this competition (both train and test) was generated from a deep learning model trained on the UCI Mushroom dataset. Feature distributions are close to, but not exactly the same, as the original. Feel free to use the original dataset as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance.
+<b>Train dataset</b>: Contains the features and the binary target (<b>class</b>), which indicates whether a mushroom is edible (<b>e</b>) or poisonous (<b>p</b>).<br>
+<b>Test dataset</b>: Contains the features without the target class. Your objective is to predict the target class for each row in this dataset.<br>
+<b>Sample Submission</b>: A file showing the correct format for submissions.<br><br>
+<b>Note</b>: This dataset includes categorical values that may not match those found in the original UCI Mushroom dataset. Participants need to handle these discrepancies as part of their model development.<br><br>
 
-Note: Unlike many previous Tabular Playground datasets, data artifacts have not been cleaned up. There are categorical values in the dataset that are not found in the original. It is up to the competitors how to handle this.
-
-Files
-train.csv - the training dataset; class is the binary target (either e or p)
-test.csv - the test dataset; your objective is to predict target class for each row
-sample_submission.csv - a sample submission file in the correct format
+Tags
+<b>Machine Learning</b><br>
+<b>Binary Classification</b><br>
+<b>Deep Learning</b><br>
+<b>Tabular Data</b><br>
+<b>Data Science</b><br>
+<b>UCI Mushroom Dataset</b><br>
+<b>Kaggle Competition</b><br>
+<b>Feature Engineering</b>
